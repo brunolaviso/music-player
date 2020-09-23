@@ -1,5 +1,4 @@
 # Music Player
----
 ### Sobre
 
 Projeto de um player de música desenvolvido em Java utilizando bibliotecas do JavaFX.
